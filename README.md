@@ -1,0 +1,2 @@
+# MagicDemo
+Magic XPA projects
